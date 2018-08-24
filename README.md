@@ -1,1 +1,1 @@
-# hello-webapp release 1.0.0
+# hello-webapp 1.0.0
